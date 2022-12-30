@@ -8,3 +8,11 @@ print("333")
 
 
 print(rd.random()*110)
+
+
+print("asdfasdfasdf")
+
+
+print("NOwy brancz")
+
+
